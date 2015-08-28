@@ -1,5 +1,7 @@
 # CHVBadge
 
+![Badge](img/badge_small.jpg)
+
 ## Official Website
 http://www.carhackingvillage.com/
 
@@ -18,8 +20,21 @@ The version included in this repository should work with any FTDI cable (I used 
 [BusPirate Instructions Here](BusPirate.md)
 
 
+## Serial Settings
+* BaudRate: 230400
+* Data: 8 bit
+* Parity: None
+* Stop: 1bit
+* Flow Control: None
+
+## Pinout
+![Badge Pinout](img/badge_pinout.png)
 
 ## SocketCan
 
 Use the Badge as a CAN based network interface in Linux!
 [More info Here](SocketCan.md)
+
+
+
+
