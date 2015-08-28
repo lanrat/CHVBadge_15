@@ -15,3 +15,6 @@ I used version 2.10.00 from here http://www.ftdichip.com/Drivers/VCP.htm. (The l
 
 Note: The version of QCMLoader that is provided by carhackingvillage.com only works with a specific FTDI cable.
 The version included in this repository should work with any FTDI cable (I used a BusPirate). Thanks to [jhub908](https://twitter.com/jhub908) for providing me with the newer version.
+
+[BusPirate Instructions Here](BusPirate.md)
+
