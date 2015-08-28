@@ -2,7 +2,7 @@
 
 This repository is meant to act as an additional resource for the DEFCON 23 Car Hacking Village badge along with the official website http://www.carhackingvillage.com/
 
-![Badge](img/badge_small.jpg)
+![Badge](img/badges.jpg)
 
 
 ## Dev Environment
