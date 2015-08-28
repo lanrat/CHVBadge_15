@@ -1,7 +1,6 @@
 # CHVBadge
-Stuff for the DEFCON 23 Car Hacking Village Badge
 
-## Website
+## Official Website
 http://www.carhackingvillage.com/
 
 ## Dev Enviroment
@@ -18,3 +17,9 @@ The version included in this repository should work with any FTDI cable (I used 
 
 [BusPirate Instructions Here](BusPirate.md)
 
+
+
+## SocketCan
+
+Use the Badge as a CAN based network interface in Linux!
+[More info Here](SocketCan.md)
