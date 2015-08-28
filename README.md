@@ -1,11 +1,11 @@
 # CHVBadge
 
+This repository is meant to act as an additional resource for the DEFCON 23 Car Hacking Village badge alogn with the official website http://www.carhackingvillage.com/
+
 ![Badge](img/badge_small.jpg)
 
-## Official Website
-http://www.carhackingvillage.com/
 
-## Dev Enviroment
+## Dev Environment
 The SDK requires a Windows machine with Visual C++ Redistributable to be installed.
 I used a VM from [modern.ie](http://dev.modern.ie/tools/vms/), and installed [Visual C++ Redistributable Packages for Visual Studio 2013](http://www.microsoft.com/en-US/download/details.aspx?id=40784).
 If you use the SDK provided from carhackingvillage.com you may need to delete msvcr110.dll and msvcr120.dll so that the versions installed from C++ Redistributable will be used.
@@ -34,7 +34,5 @@ The version included in this repository should work with any FTDI cable (I used 
 
 Use the Badge as a CAN based network interface in Linux!
 [More info Here](SocketCan.md)
-
-
 
 
