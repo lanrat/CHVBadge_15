@@ -4,6 +4,8 @@
 
 The SLCAN driver interface defines a text based protocol in which a tty device can speak CAN.
 
-Info: http://lxr.free-electrons.com/source/drivers/net/can/slcan.c
+Driver Info: http://lxr.free-electrons.com/source/drivers/net/can/slcan.c
+
+Driver API: https://github.com/linux-can/can-misc/blob/master/docs/SLCAN-API.pdf
 
 TODO
